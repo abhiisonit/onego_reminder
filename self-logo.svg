@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="250 330 520 350" width="520" height="350">
+  <rect width="100%" height="100%" fill="none"/>
+  <g fill="none" stroke="#000000" stroke-width="36" stroke-linecap="butt" stroke-linejoin="miter">
+    <!-- 's' top arch flowing into 'e' arch and horizontal bar -->
+    <path d="M 412 538 L 512 538 C 512 472 435 446 396 492 C 370 448 296 456 296 502 C 296 544 396 552 396 602 C 396 644 312 648 286 594" />
+    <!-- 's' middle-bottom flowing into baseline under 'e', up 'l' stem, and right into 'f' crossbar -->
+    <path d="M 388 574 C 402 622 432 634 476 634 L 582 634 L 582 456 L 714 456" />
+    <!-- 'f' vertical stem and top hook -->
+    <path d="M 650 652 L 650 416 C 650 376 672 368 716 368" />
+  </g>
+  <!-- Leaning person silhouette between 'l' and 'f' -->
+  <g fill="#000000">
+    <!-- Head -->
+    <circle cx="609" cy="579" r="8.5" />
+    <!-- Body & arms leaning against 'l' stem, right arm akimbo -->
+    <path d="M 600 590 C 605 589 614 590 618 594 L 626 604 C 627 606 626 608 624 610 L 618 616 L 624 646 C 625 649 622 652 619 651 L 614 630 L 612 650 C 611 652 607 652 607 649 L 605 620 L 600 612 Z" />
+    <!-- Inner cutout of akimbo right arm -->
+    <path d="M 615 599 L 620 605 L 615 610 Z" fill="#FFFFFF" />
+    <!-- Period dot '.' -->
+    <circle cx="708" cy="628" r="24" />
+  </g>
+</svg>
