@@ -46,7 +46,7 @@ This repository includes a ready-to-deploy promotional website and pre-built APK
 
 - **Direct APK File:** [`reminders.apk`](./reminders.apk)
 - **Promotional Webpage:** [`index.html`](./index.html)
-- 
+
 ---
 
 ## 🏗️ Architecture & Tech Stack
